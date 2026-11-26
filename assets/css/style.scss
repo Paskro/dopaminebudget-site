@@ -3,3 +3,4 @@
 @import "{{ site.theme }}";
 table { display: block; overflow-x: auto; }
 .wrapper { max-width: 100%; }
+header p.view, header ul.downloads { display: none; }
