@@ -6,3 +6,5 @@ title: Dopamine Budget
 # Dopamine Budget
 
 [Privacy Policy](/privacy/)
+
+[Terms of Use](/terms/)
